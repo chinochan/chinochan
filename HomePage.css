@@ -1,0 +1,66 @@
+body{
+	margin: 0px;
+	font-family:"Garamond";
+}
+
+h1{
+	margin: 0px;
+	font-size: 50px;
+	padding: 30px;
+}
+
+h2{
+	font-size:30px;
+	color: gray;
+	padding: 10px;
+}
+
+#header{
+	text-align: center;
+	background-color: gray;
+	padding-bottom: 50px;
+}
+
+#profile-pic {
+	width: 380px;
+	height: 340px;
+	padding: 30px;
+}
+
+#logo {
+	width: 25px;
+	height: 25px;
+	padding: 5px;
+}
+
+
+.column{
+	margin: 0 auto;
+	width: 40%;
+	text-align: left;
+	border-bottom: 2px solid darkgray;
+}
+
+#projects p{
+	font-weight: bold;
+}
+
+#footer{
+	text-align: center;
+	margin-top: 20px;
+	padding-bottom: 30px;
+}
+
+#footer a{
+	color:lightblue;
+}
+
+#navbar{
+	background-color: darkgray;
+	padding: 10px;
+	text-align: right;
+}
+
+#navbar a{
+	color:white;
+}
